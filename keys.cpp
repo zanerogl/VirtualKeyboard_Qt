@@ -32,6 +32,7 @@ void Keys::isClicked()
     }
     else if(this->text() == "CapsLk")
     {
+        emit capsLk();
         popUp();
         popIn();
         qDebug()<<"CapsLk";

@@ -31,7 +31,7 @@ public:
 protected:
 //    void paintEvent(QPaintEvent *event) override;
 signals:
-
+    void capsLk();
 };
 
 #endif // KEYS_H

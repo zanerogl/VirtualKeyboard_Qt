@@ -39,7 +39,7 @@
     <number>3</number>
    </property>
    <item row="1" column="2">
-    <widget class="Keys" name="toolButton_13">
+    <widget class="Keys" name="toolButton_e">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
        <horstretch>0</horstretch>
@@ -61,7 +61,7 @@
     </widget>
    </item>
    <item row="6" column="6">
-    <widget class="Keys" name="toolButton_36">
+    <widget class="Keys" name="toolButton_n">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
        <horstretch>0</horstretch>
@@ -83,7 +83,7 @@
     </widget>
    </item>
    <item row="2" column="8">
-    <widget class="Keys" name="toolButton_29">
+    <widget class="Keys" name="toolButton_l">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
        <horstretch>0</horstretch>
@@ -105,7 +105,7 @@
     </widget>
    </item>
    <item row="1" column="1">
-    <widget class="Keys" name="toolButton_12">
+    <widget class="Keys" name="toolButton_w">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
        <horstretch>0</horstretch>
@@ -127,7 +127,7 @@
     </widget>
    </item>
    <item row="1" column="5">
-    <widget class="Keys" name="toolButton_16">
+    <widget class="Keys" name="toolButton_y">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
        <horstretch>0</horstretch>
@@ -171,7 +171,7 @@
     </widget>
    </item>
    <item row="1" column="4">
-    <widget class="Keys" name="toolButton_15">
+    <widget class="Keys" name="toolButton_t">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
        <horstretch>0</horstretch>
@@ -193,7 +193,7 @@
     </widget>
    </item>
    <item row="2" column="9">
-    <widget class="Keys" name="toolButton_30">
+    <widget class="Keys" name="toolButton_Backspace">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
        <horstretch>0</horstretch>
@@ -237,7 +237,7 @@
     </widget>
    </item>
    <item row="2" column="3">
-    <widget class="Keys" name="toolButton_24">
+    <widget class="Keys" name="toolButton_f">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
        <horstretch>0</horstretch>
@@ -259,7 +259,7 @@
     </widget>
    </item>
    <item row="1" column="3">
-    <widget class="Keys" name="toolButton_14">
+    <widget class="Keys" name="toolButton_r">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
        <horstretch>0</horstretch>
@@ -281,7 +281,7 @@
     </widget>
    </item>
    <item row="2" column="1">
-    <widget class="Keys" name="toolButton_22">
+    <widget class="Keys" name="toolButton_s">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
        <horstretch>0</horstretch>
@@ -303,7 +303,7 @@
     </widget>
    </item>
    <item row="2" column="5">
-    <widget class="Keys" name="toolButton_26">
+    <widget class="Keys" name="toolButton_h">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
        <horstretch>0</horstretch>
@@ -325,7 +325,7 @@
     </widget>
    </item>
    <item row="6" column="4">
-    <widget class="Keys" name="toolButton_34">
+    <widget class="Keys" name="toolButton_v">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
        <horstretch>0</horstretch>
@@ -347,7 +347,7 @@
     </widget>
    </item>
    <item row="6" column="5">
-    <widget class="Keys" name="toolButton_35">
+    <widget class="Keys" name="toolButton_b">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
        <horstretch>0</horstretch>
@@ -369,7 +369,7 @@
     </widget>
    </item>
    <item row="6" column="1">
-    <widget class="Keys" name="toolButton_31">
+    <widget class="Keys" name="toolButton_z">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
        <horstretch>0</horstretch>
@@ -391,7 +391,7 @@
     </widget>
    </item>
    <item row="1" column="0">
-    <widget class="Keys" name="toolButton_11">
+    <widget class="Keys" name="toolButton_q">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
        <horstretch>0</horstretch>
@@ -413,7 +413,7 @@
     </widget>
    </item>
    <item row="0" column="6">
-    <widget class="Keys" name="toolButton_9">
+    <widget class="Keys" name="toolButton_7">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
        <horstretch>0</horstretch>
@@ -435,7 +435,7 @@
     </widget>
    </item>
    <item row="1" column="7">
-    <widget class="Keys" name="toolButton_18">
+    <widget class="Keys" name="toolButton_i">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
        <horstretch>0</horstretch>
@@ -457,7 +457,7 @@
     </widget>
    </item>
    <item row="2" column="4">
-    <widget class="Keys" name="toolButton_25">
+    <widget class="Keys" name="toolButton_g">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
        <horstretch>0</horstretch>
@@ -501,7 +501,7 @@
     </widget>
    </item>
    <item row="7" column="2" colspan="6">
-    <widget class="Keys" name="toolButton_41">
+    <widget class="Keys" name="toolButton_Space">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
        <horstretch>0</horstretch>
@@ -522,30 +522,8 @@
      </property>
     </widget>
    </item>
-   <item row="0" column="5">
-    <widget class="Keys" name="toolButton_10">
-     <property name="sizePolicy">
-      <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
-       <horstretch>0</horstretch>
-       <verstretch>0</verstretch>
-      </sizepolicy>
-     </property>
-     <property name="styleSheet">
-      <string notr="true">QToolButton{
-	color: white;
-	background: rgb(51,51,51);
-	border: 2px solid;
-	border-radius:10px;
-
-}</string>
-     </property>
-     <property name="text">
-      <string>6</string>
-     </property>
-    </widget>
-   </item>
    <item row="6" column="2">
-    <widget class="Keys" name="toolButton_32">
+    <widget class="Keys" name="toolButton_x">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
        <horstretch>0</horstretch>
@@ -567,7 +545,7 @@
     </widget>
    </item>
    <item row="0" column="0">
-    <widget class="Keys" name="toolButton">
+    <widget class="Keys" name="toolButton_1">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
        <horstretch>0</horstretch>
@@ -589,7 +567,7 @@
     </widget>
    </item>
    <item row="2" column="0">
-    <widget class="Keys" name="toolButton_21">
+    <widget class="Keys" name="toolButton_a">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
        <horstretch>0</horstretch>
@@ -633,7 +611,7 @@
     </widget>
    </item>
    <item row="6" column="3">
-    <widget class="Keys" name="toolButton_33">
+    <widget class="Keys" name="toolButton_c">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
        <horstretch>0</horstretch>
@@ -655,7 +633,7 @@
     </widget>
    </item>
    <item row="0" column="9">
-    <widget class="Keys" name="toolButton_6">
+    <widget class="Keys" name="toolButton_0">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
        <horstretch>0</horstretch>
@@ -677,7 +655,7 @@
     </widget>
    </item>
    <item row="0" column="8">
-    <widget class="Keys" name="toolButton_7">
+    <widget class="Keys" name="toolButton_9">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
        <horstretch>0</horstretch>
@@ -699,7 +677,7 @@
     </widget>
    </item>
    <item row="1" column="8">
-    <widget class="Keys" name="toolButton_19">
+    <widget class="Keys" name="toolButton_o">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
        <horstretch>0</horstretch>
@@ -743,7 +721,7 @@
     </widget>
    </item>
    <item row="6" column="7">
-    <widget class="Keys" name="toolButton_37">
+    <widget class="Keys" name="toolButton_m">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
        <horstretch>0</horstretch>
@@ -765,7 +743,7 @@
     </widget>
    </item>
    <item row="1" column="9">
-    <widget class="Keys" name="toolButton_20">
+    <widget class="Keys" name="toolButton_p">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
        <horstretch>0</horstretch>
@@ -787,7 +765,7 @@
     </widget>
    </item>
    <item row="2" column="7">
-    <widget class="Keys" name="toolButton_28">
+    <widget class="Keys" name="toolButton_k">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
        <horstretch>0</horstretch>
@@ -809,7 +787,7 @@
     </widget>
    </item>
    <item row="2" column="6">
-    <widget class="Keys" name="toolButton_27">
+    <widget class="Keys" name="toolButton_j">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
        <horstretch>0</horstretch>
@@ -831,7 +809,7 @@
     </widget>
    </item>
    <item row="1" column="6">
-    <widget class="Keys" name="toolButton_17">
+    <widget class="Keys" name="toolButton_u">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
        <horstretch>0</horstretch>
@@ -853,7 +831,7 @@
     </widget>
    </item>
    <item row="2" column="2">
-    <widget class="Keys" name="toolButton_23">
+    <widget class="Keys" name="toolButton_d">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
        <horstretch>0</horstretch>
@@ -875,7 +853,7 @@
     </widget>
    </item>
    <item row="6" column="8" rowspan="2" colspan="2">
-    <widget class="Keys" name="toolButton_38">
+    <widget class="Keys" name="toolButton_Enter">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
        <horstretch>0</horstretch>
@@ -897,7 +875,7 @@
     </widget>
    </item>
    <item row="7" column="0" colspan="2">
-    <widget class="Keys" name="toolButton_39">
+    <widget class="Keys" name="toolButton_Language">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
        <horstretch>0</horstretch>
@@ -919,7 +897,7 @@
     </widget>
    </item>
    <item row="6" column="0">
-    <widget class="Keys" name="toolButton_40">
+    <widget class="Keys" name="toolButton_CapsLk">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
        <horstretch>0</horstretch>
@@ -937,6 +915,28 @@
      </property>
      <property name="text">
       <string>CapsLk</string>
+     </property>
+    </widget>
+   </item>
+   <item row="0" column="5">
+    <widget class="Keys" name="toolButton_6">
+     <property name="sizePolicy">
+      <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+       <horstretch>0</horstretch>
+       <verstretch>0</verstretch>
+      </sizepolicy>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">QToolButton{
+	color: white;
+	background: rgb(51,51,51);
+	border: 2px solid;
+	border-radius:10px;
+
+}</string>
+     </property>
+     <property name="text">
+      <string>6</string>
      </property>
     </widget>
    </item>

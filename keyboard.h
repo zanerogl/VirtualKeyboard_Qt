@@ -23,6 +23,11 @@ public:
     void init();
 
     /**
+     * @brief converUpLow   大小写字母转换
+     */
+    void converUpLow();
+
+    /**
      * @brief popUp popIn   弹出/探入
      * @param x             x方向移动距离
      * @param y             y方向移动距离
@@ -37,5 +42,10 @@ protected:
 
 private:
     Ui::Widget *ui;
+
+    bool m_moveState = false;   //隐藏
+
+    bool m_letterState = false; //小写
+
 };
 #endif // KEYBOARD
